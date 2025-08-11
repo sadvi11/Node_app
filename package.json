@@ -1,0 +1,23 @@
+{
+  "name": "node_app",
+  "version": "1.0.0",
+  "description": "A Node.js application is a software program or system built using the Node.js runtime environment. Node.js is an open-source, cross-platform JavaScript runtime built on Chrome's V8 JavaScript engine, enabling developers to execute JavaScript code outside of a web browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadvi11/Node_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadvi11/Node_app/issues"
+  },
+  "homepage": "https://github.com/sadvi11/Node_app#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
